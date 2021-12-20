@@ -7,4 +7,5 @@ Main menu Design layout here https://docs.google.com/spreadsheets/d/1ew3PBXQTieF
 
 Guidelines 
 
-- Make sure to build for a 16:9 screen ratio (selection found on the game window)
+- We wil be making a new base for the project for everyone to work on Dec 20
+- We will build a basic version of the game as of Dec 20
